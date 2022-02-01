@@ -35,3 +35,8 @@
 * Commencement du journal de bord : 15h 45 - 16h 00
 ### Bilan de la journée
 * On a bien avancé dans les temps, tout le monde a fait ce qu'il devait faire dans les temps apartis.
+| Method      | Description                          |
+| ----------- | ------------------------------------ |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
