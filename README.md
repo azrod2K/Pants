@@ -11,7 +11,7 @@
 ---
 ## PANTS : Choose your pants
 
-![Pants](/img/bestlogoptp.png)
+![Pants](https://raw.githubusercontent.com/azrod2K/Pants/main/bestlogoptp.png)
 
 
 ## J1 : 31.01.2022
