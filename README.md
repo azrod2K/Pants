@@ -73,29 +73,3 @@ On a bien avancé dans les temps, tout le monde a fait ce qu'il devait faire dan
 ### Bilan de la journée   
 
 ---
-
-
-
-
-
-
-
-### Déroulement de la journée
-1. Théorie : 12h 40 - 13h 40
-2. Démarrage du projet : 13h 40 - 15 h 30
-    2. James et Jules on conséptualisé la base de donnée.
-    2. David et Marcos ce sont occupés du cahier des charges
-3. Théorie : 15h30 - 15h 45
-4. Commencement du journal de bord : 15h 45 - 16h 00
-
-
-
-### Bilan de la journée   
-
-    On a bien avancé dans les temps, tout le monde a fait ce qu'il devait faire dans les temps apartis. Il y avait une trés bonne communication et c'etait trés chaleureux.
-
----
-
-
-
-
