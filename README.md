@@ -22,11 +22,10 @@
 - [x] Marcos
 - [x] James
 
----
+
 ### Etape du projet
 Définition du projet et de la méthode
 
----
 ### Objectifs
 * Création du groupe 
 * Trouver le sujet
@@ -35,7 +34,6 @@ Définition du projet et de la méthode
 * Conséption de la base de donée
 
 
----
 
 ### Déroulement de la journée
 1. Théorie : 12h 40 - 13h 40
@@ -45,9 +43,9 @@ Définition du projet et de la méthode
 3. Théorie : 15h30 - 15h 45
 4. Commencement du journal de bord : 15h 45 - 16h 00
 
----
 
-!!!"Bilan de la journée"    
+
+### Bilan de la journée   
 
     On a bien avancé dans les temps, tout le monde a fait ce qu'il devait faire dans les temps apartis. Il y avait une trés bonne communication et c'etait trés chaleureux.
 
