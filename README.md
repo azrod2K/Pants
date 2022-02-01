@@ -47,7 +47,7 @@ Définition du projet et de la méthode
 
 ---
 
-!!! note "Bilan de la journée"    
+!!!"Bilan de la journée"    
 
     On a bien avancé dans les temps, tout le monde a fait ce qu'il devait faire dans les temps apartis. Il y avait une trés bonne communication et c'etait trés chaleureux.
 
