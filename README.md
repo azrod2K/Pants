@@ -35,7 +35,3 @@
 * Commencement du journal de bord : 15h 45 - 16h 00
 ### Bilan de la journée
 * On a bien avancé dans les temps, tout le monde a fait ce qu'il devait faire dans les temps apartis.
-First Header | Second Header | Third Header
------------- | ------------- | ------------
-Content Cell | Content Cell  | Content Cell
-Content Cell | Content Cell  | Content Cell
