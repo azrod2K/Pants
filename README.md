@@ -70,8 +70,8 @@ Planification
 
 ### Déroulement de la journée
 1. Explication du planning : 12h 40 - 13h 40
-2 James et Jules ont modifié la basse de données. 13h40 - 16h
-3 David et Marcos ce sont occupés du planning. 13h40 - 16h
+2. James et Jules ont modifié la basse de données. 13h40 - 16h
+3. David et Marcos ce sont occupés du planning. 13h40 - 16h
 
 
 ### Bilan de la journée 
