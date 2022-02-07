@@ -54,27 +54,27 @@ On a bien avancé dans les temps, tout le monde a fait ce qu'il devait faire dan
 
 ## J2 : 7.01.2022
 
-### Elèves présents
+### Elèves présents :
 - [x] David
 - [x] Jules
 - [x] Marcos
 - [x] James
 
 
-### Etape du projet
+### Etape du projet :
 Planification
 
-### Objectifs
+### Objectifs :
 * Planification 
 * Retour sur le cahier des charges
 
-### Déroulement de la journée
+### Déroulement de la journée :
 1. Explication du planning : 12h 40 - 13h 40
 2. James et Jules ont modifié la basse de données. 13h40 - 16h
 3. David et Marcos ce sont occupés du planning. 13h40 - 16h
 
 
-### Bilan de la journée 
+### Bilan de la journée :
 Nous avons bien bossé, le travail est correcte. Pas de problème rencontré. 
 
 ---
