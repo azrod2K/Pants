@@ -40,7 +40,7 @@
 1. Théorie : 12h 40 - 13h 40
 2. Démarrage du projet : 13h 40 - 15 h 30
     2.1 James et Jules on conséptualisé la base de donnée.
-    2. David et Marcos ce sont occupés du cahier des charges
+    2.2 David et Marcos ce sont occupés du cahier des charges
 3. Théorie : 15h30 - 15h 45
 4. Commencement du journal de bord : 15h 45 - 16h 00
 
