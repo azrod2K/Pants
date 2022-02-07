@@ -32,7 +32,7 @@
 * Trouver le sujet
 * Création du cahier des charges  
 * Création du journal de bord
-* Conséption de la base de donnée
+* Concéption de la base de données
 
 
 
