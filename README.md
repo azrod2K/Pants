@@ -55,7 +55,7 @@ On a bien avancé dans les temps, tout le monde a fait ce qu'il devait faire dan
 ## J2 : 7.01.2022
 
 ### Elèves présents
-- [ ] David
+- [x] David
 - [x] Jules
 - [x] Marcos
 - [x] James
