@@ -78,3 +78,33 @@ Planification
 Nous avons bien bossé, le travail est correcte. Pas de problème rencontré. 
 
 ---
+
+## J3 : 21.02.2022
+
+### Elèves présents :
+- [x] David
+- [x] Jules
+- [x] Marcos
+- [x] James
+
+
+### Etape du projet :
+Concevoir le programme qui devra être
+réalisé
+
+### Objectifs :
+* Commencer l’analyse fonctionnelle 
+* Compléter le journal de bord
+
+### Déroulement de la journée :
+1. Théorie d'une bonne documentation : 12h 40 - 13h 40
+2. James: création de la doc. 13h40 - 16h
+3. David: planning. 13h40 - 16h
+4. Marcos: diagramme de classe. 13h40 - 16h
+5. Jules: création du site. 13h40 - 16h
+
+
+### Bilan de la journée :
+La reprise des cours suite aux vacances étaient dure, mais nous avons tenus bon. ;)
+
+---
