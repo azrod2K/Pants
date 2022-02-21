@@ -99,7 +99,7 @@ réalisé
 ### Déroulement de la journée :
 1. Théorie d'une bonne documentation : 12h 40 - 13h 40
 2. James: création de la doc. 13h40 - 16h
-3. David: planning. 13h40 - 16h
+3. David: planning. 13h40 - 14h / création de la bases de données 14h35 - 15h40
 4. Marcos: diagramme de classe. 13h40 - 16h
 5. Jules: création du site. 13h40 - 16h
 
