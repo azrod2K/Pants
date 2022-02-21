@@ -1,6 +1,10 @@
 # Journal de bord Du module M306 • Groupe Pants
 
-## Les membres du groupe :
+### PANTS Choose your pants
+
+![Pants](https://raw.githubusercontent.com/azrod2K/Pants/main/bestlogoptp.png)
+
+### Les membres du groupe :
 
 | User Interface |    SQL Dev    |       C# Dev     |    PHP Dev   |
 | -------------- | ------------- | ---------------- |--------------|
@@ -9,50 +13,98 @@
 
 
 ---
-## PANTS : Choose your pants
-
-![Pants](/img/bestlogoptp.png)
 
 
 ## J1 : 31.01.2022
 
-### Elèves présents
+### Elèves présents :
 - [x] David
 - [x] Jules
 - [x] Marcos
 - [x] James
 
----
-### Etape du projet
-Définition du projet et de la méthode
 
----
-### Objectifs
+### Etape du projet :
+1. Définition du projet et de la méthode
+
+### Objectifs :
 * Création du groupe 
 * Trouver le sujet
 * Création du cahier des charges  
 * Création du journal de bord
-* Conséption de la base de donée
+* Concéption de la base de données
 
 
----
 
-### Déroulement de la journée
+### Déroulement de la journée :
 1. Théorie : 12h 40 - 13h 40
 2. Démarrage du projet : 13h 40 - 15 h 30
-    2. James et Jules on conséptualisé la base de donnée.
-    2. David et Marcos ce sont occupés du cahier des charges
+    2.1 James et Jules on conséptualisé la base de donnée.
+    2.2 David et Marcos ce sont occupés du cahier des charges
 3. Théorie : 15h30 - 15h 45
 4. Commencement du journal de bord : 15h 45 - 16h 00
 
+
+
+### Bilan de la journée : 
+
+On a bien avancé dans les temps, tout le monde a fait ce qu'il devait faire dans les temps apartis. Il y avait une trés bonne communication et c'etait trés chaleureux.
+
 ---
 
-!!! note "Bilan de la journée"    
+## J2 : 7.01.2022
 
-    On a bien avancé dans les temps, tout le monde a fait ce qu'il devait faire dans les temps apartis. Il y avait une trés bonne communication et c'etait trés chaleureux.
+### Elèves présents :
+- [x] David
+- [x] Jules
+- [x] Marcos
+- [x] James
+
+
+### Etape du projet :
+Planification
+
+### Objectifs :
+* Planification 
+* Retour sur le cahier des charges
+
+### Déroulement de la journée :
+1. Explication du planning : 12h 40 - 13h 40
+2. James et Jules ont modifié la basse de données. 13h40 - 16h
+3. David et Marcos ce sont occupés du planning. 13h40 - 16h
+
+
+### Bilan de la journée :
+Nous avons bien bossé, le travail est correcte. Pas de problème rencontré. 
 
 ---
 
+## J3 : 21.02.2022
+
+### Elèves présents :
+- [x] David
+- [x] Jules
+- [x] Marcos
+- [x] James
 
 
+### Etape du projet :
+Concevoir le programme qui devra être
+réalisé
 
+### Objectifs :
+* Commencer l’analyse fonctionnelle 
+* Compléter le journal de bord
+
+### Déroulement de la journée :
+1. Théorie d'une bonne documentation : 12h 40 - 13h 40
+2. James: création de la doc. 13h40 - 16h
+3. David: planning. 13h40 - 14h / création de la bases de données 14h35 - 15h40
+4. Marcos: diagramme de classe. 13h40 - 16h
+5. Jules: création du site. 13h40 - 16h
+
+
+### Bilan de la journée :
+La reprise des cours suite aux vacances étaient dure, mais nous avons tenus bon. ;)
+
+---
