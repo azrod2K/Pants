@@ -129,7 +129,7 @@ Implémentation de l’application
 2. Marcos: Probléme avec son visual studio(lisance). 13h05
 3. Jules: Création des modéles. 13h00 - 16h00
 4. James: Recherche d'une template et inplémentaion (probléme avec les liens des images)3h00-16h00
-5. David: 
+5. David: Implémentation de la structure de la base de donnée, fin de la configuration du serveur Infomaniak & conséptualisation des requêtes (recuperation pantalon & commancement ajout pantalon). 13h00 - 16H00 
 
 ### Bilan de la journée :
 La reprise des cours suite aux vacances étaient dure, mais nous avons tenus bon. ;)
