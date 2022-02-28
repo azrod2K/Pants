@@ -108,3 +108,30 @@ réalisé
 La reprise des cours suite aux vacances étaient dure, mais nous avons tenus bon. ;)
 
 ---
+## J4 : 28.02.2022
+
+### Elèves présents :
+- [x] David
+- [x] Jules
+- [x] Marcos
+- [ ] James
+
+
+### Etape du projet :
+Implémentation de l’application
+
+### Objectifs :
+* Trouver une template
+* 
+
+### Déroulement de la journée :
+1. Présentation des planings retour médiocre. 12h40-13h00
+2. Marcos: Probléme avec son visual studio(lisance). 13h05
+3. Jules: Création des modéles. 13h00 - 16h00
+4. James: Recherche d'une template et inplémentaion (probléme avec les liens des images)3h00-16h00
+5. David: 
+
+### Bilan de la journée :
+La reprise des cours suite aux vacances étaient dure, mais nous avons tenus bon. ;)
+
+---
