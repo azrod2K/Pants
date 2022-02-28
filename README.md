@@ -128,7 +128,7 @@ Implémentation de l’application
 1. Présentation des planings retour médiocre. 12h40-13h00
 2. Marcos: Probléme avec son visual studio(lisance). 13h05
 3. Jules: Création des modéles. 13h00 - 16h00
-4. James: Recherche d'une template et inplémentaion (probléme avec les permanances).13h00-16h00
+4. James: Recherche d'une template et inplémentaion (probléme avec les permisions).13h00-16h00
 5. David: Implémentation de la structure de la base de donnée, fin de la configuration du serveur Infomaniak & conséptualisation des requêtes (recuperation pantalon & commancement ajout pantalon). 13h00 - 16H00 
 
 ### Bilan de la journée :
