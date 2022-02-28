@@ -126,7 +126,7 @@ Implémentation de l’application
 
 ### Déroulement de la journée :
 1. Présentation des planings retour médiocre. 12h40-13h00
-2. Marcos: Probléme avec son visual studio(lisance). 13h05
+2. Marcos: Probléme avec son visual studio(lisance). 13h05 / Debut de l'application c#. 13h05 - 16h00
 3. Jules: Création des modéles et aide james aves l'ajout de la template. 13h00 - 16h00
 4. James: Recherche d'une template et inplémentaion (probléme avec les permisions).13h00-16h00
 5. David: Implémentation de la structure de la base de donnée, fin de la configuration du serveur Infomaniak & conséptualisation des requêtes (recuperation pantalon & commancement ajout pantalon). 13h00 - 16H00 
