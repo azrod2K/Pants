@@ -133,7 +133,7 @@ Implémentation de l’application
 2. Marcos: Problème avec son visual studio (liscence) (13h00 - 13h15). Début de l'application c# (13h15 - 16h00)
 3. Jules: Création des modèles et aide James avec l'ajout de la template. 13h00 - 16h00
 4. James: Recherche d'une template et inplémentaion (problème avec les permissions).13h00-16h00
-5. David: Implémentation de la structure de la base de données, fin de la configuration du serveur Infomaniak & conceptualisation des requêtes (recuperation pantalon & commancement ajout pantalon). 13h00 - 16H00 
+5. David: Implémentation de la structure de la base de données, fin de la configuration du serveur Infomaniak & conceptualisation des requêtes (récuperation pantalon & commencement ajout pantalon). 13h00 - 16H00 
 
 ### Bilan de la journée :
 C'était une journée trés productive, nous avons bien collaboré. Le problème de Marcos a été vite résolut.
