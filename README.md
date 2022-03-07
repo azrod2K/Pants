@@ -126,15 +126,16 @@ Implémentation de l’application
 * Création des modèles
 * Configurer la base de données
 * Conceptualisation des requêtes
+* Création de l'application c# (windows forms)
 
 ### Déroulement de la journée :
-1. Présentation des planinngs retour médiocre. 12h40-13h00
-2. Marcos: Problème avec son visual studio (lisance). 13h05 / Début de l'application c#. 13h05 - 16h00
+1. Présentation des planinngs (retour médiocre). 12h40-13h00
+2. Marcos: Problème avec son visual studio (liscence) (13h00 - 13h15). Début de l'application c# (13h15 - 16h00)
 3. Jules: Création des modèles et aide James avec l'ajout de la template. 13h00 - 16h00
 4. James: Recherche d'une template et inplémentaion (problème avec les permissions).13h00-16h00
 5. David: Implémentation de la structure de la base de données, fin de la configuration du serveur Infomaniak & conceptualisation des requêtes (recuperation pantalon & commancement ajout pantalon). 13h00 - 16H00 
 
 ### Bilan de la journée :
-C'était une journée trés productive, nous avons bien colaborée. Le problème de Marcos a été vite résolut.
+C'était une journée trés productive, nous avons bien collaboré. Le problème de Marcos a été vite résolut.
 
 ---
