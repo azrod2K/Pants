@@ -123,18 +123,18 @@ Implémentation de l’application
 ### Objectifs :
 * Trouver une template
 * Implémentation de la template
-* Création des modéles
-* Configurée la base de donnée
-* Conséptualisation des requêtes
+* Création des modèles
+* Configurer la base de données
+* Conceptualisation des requêtes
 
 ### Déroulement de la journée :
-1. Présentation des planings retour médiocre. 12h40-13h00
-2. Marcos: Probléme avec son visual studio(lisance). 13h05 / Debut de l'application c#. 13h05 - 16h00
-3. Jules: Création des modéles et aide james aves l'ajout de la template. 13h00 - 16h00
-4. James: Recherche d'une template et inplémentaion (probléme avec les permisions).13h00-16h00
-5. David: Implémentation de la structure de la base de donnée, fin de la configuration du serveur Infomaniak & conséptualisation des requêtes (recuperation pantalon & commancement ajout pantalon). 13h00 - 16H00 
+1. Présentation des planinngs retour médiocre. 12h40-13h00
+2. Marcos: Problème avec son visual studio (lisance). 13h05 / Début de l'application c#. 13h05 - 16h00
+3. Jules: Création des modèles et aide James avec l'ajout de la template. 13h00 - 16h00
+4. James: Recherche d'une template et inplémentaion (problème avec les permissions).13h00-16h00
+5. David: Implémentation de la structure de la base de données, fin de la configuration du serveur Infomaniak & conceptualisation des requêtes (recuperation pantalon & commancement ajout pantalon). 13h00 - 16H00 
 
 ### Bilan de la journée :
-La reprise des cours suite aux vacances étaient dure, mais nous avons tenus bon. ;)
+C'était une journée trés productive, nous avons bien colaborée. Le problème de Marcos a été vite résolut.
 
 ---
