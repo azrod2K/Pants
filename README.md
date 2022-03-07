@@ -114,7 +114,7 @@ La reprise des cours suite aux vacances étaient dure, mais nous avons tenus bon
 - [x] David
 - [x] Jules
 - [x] Marcos
-- [ ] James
+- [x] James
 
 
 ### Etape du projet :
