@@ -122,7 +122,10 @@ Implémentation de l’application
 
 ### Objectifs :
 * Trouver une template
-* 
+* Implémentation de la template
+* Création des modéles
+* Configurée la base de donnée
+* Conséptualisation des requêtes
 
 ### Déroulement de la journée :
 1. Présentation des planings retour médiocre. 12h40-13h00
