@@ -142,3 +142,34 @@ https://themewagon.com/themes/free-bootstrap-4-html5-ecommerce-website-template-
 C'était une journée trés productive, nous avons bien collaboré. Le problème de Marcos a été vite résolut.
 
 ---
+
+## J5 : 07.03.2022
+
+### Elèves présents :
+- [x] David
+- [x] Jules
+- [x] Marcos
+- [x] James
+
+
+### Etape du projet :
+Implémentation de l’application
+
+### Objectifs :
+* Finir les maquettes
+* Création des requêtes GetAllPants et AddPantalon
+* Gérer l'ajout des articles dans la page "shop.php" et les rendre responsive
+* Continuer l'application c# (windows forms)
+
+### Déroulement de la journée :
+1. Présentation de nos journaux de bord. (12h40-13h20)
+2. Marcos: Continuation de l'application C# (13h30 - 15h10)
+3. Jules et James: Regler le soucis des images des articles qui ne s'affichent pas, "data-set bg" ne marchait pas. (13h30 - 15h10)
+4. David: Continuation des requêtes MySql "GetAllPants" et "AddPantalon" (13h30 - 15h10) 
+5. Marcos, Jules et James: Trouver une solution avec l'aide de Mme. Terrier par rapport à notre soucis avec le serveur Infomaniak.
+
+
+### Bilan de la journée :
+Malheureusement, cette journée nous a prèsenté un gros problème avec notre serveur Infomaniak. On n'arrive pas à l'acceder depuis l'exterieur, et cela nous a arreté de pouvoir continuer et finir l'implementation de l'application. On pense avoir une idée de comment resoudre ce problème mais on n'a pas le temps aujourd'hui de regler le soucis.
+
+---
