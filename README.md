@@ -135,6 +135,9 @@ Implémentation de l’application
 4. James: Recherche d'une template et inplémentaion (problème avec les permissions).13h00-16h00
 5. David: Implémentation de la structure de la base de données, fin de la configuration du serveur Infomaniak & conceptualisation des requêtes (récuperation pantalon & commencement ajout pantalon). 13h00 - 16H00 
 
+## Source du template :
+https://themewagon.com/themes/free-bootstrap-4-html5-ecommerce-website-template-malefashion/
+
 ### Bilan de la journée :
 C'était une journée trés productive, nous avons bien collaboré. Le problème de Marcos a été vite résolut.
 
