@@ -135,7 +135,7 @@ Implémentation de l’application
 4. James: Recherche d'une template et inplémentaion (problème avec les permissions).13h00-16h00
 5. David: Implémentation de la structure de la base de données, fin de la configuration du serveur Infomaniak & conceptualisation des requêtes (récuperation pantalon & commencement ajout pantalon). 13h00 - 16H00 
 
-## Source du template :
+### Source du template :
 https://themewagon.com/themes/free-bootstrap-4-html5-ecommerce-website-template-malefashion/
 
 ### Bilan de la journée :
@@ -171,5 +171,67 @@ Implémentation de l’application
 
 ### Bilan de la journée :
 Malheureusement, cette journée nous a prèsenté un gros problème avec notre serveur Infomaniak. On n'arrive pas à l'acceder depuis l'exterieur, et cela nous a arreté de pouvoir continuer et finir l'implementation de l'application. On pense avoir une idée de comment resoudre ce problème mais on n'a pas le temps aujourd'hui de regler le soucis.
+
+---
+## J6 : 14.03.2022
+
+### Elèves présents :
+- [x] David
+- [x] Jules
+- [x] Marcos (pas présent la première heure)
+- [x] James
+
+
+### Etape du projet :
+Implémentation de l’application
+
+### Objectifs :
+* Finition de la page Panier
+* Finition de la page Magasin
+* Gros avancement de la documentation
+* Finalisation des requêtes
+* Continuer l'application C# (Windows forms)
+
+### Déroulement de la journée :
+1. Jules avancement sur la documentation(décrire tous les pages web) 12h40-16h
+2. David avancement sur la nouvelle base de données en ligne (requêtes et ajout des données) 12h40- 16h
+3. James avancement sur le site création des pages web (panier et magasin) avec la modification totale de la template 12h40-16h
+4. Marcos finition de l'application c# avancement sur la form. 13h20-16h
+
+
+### Bilan de la journée :
+Aujourd'hui nous avons réglé le problème de la semaine dernière fois. La base de données a été créer dans un nouveau serveur en ligne.
+Nous avons tous remarqué qu'on était en retard sur l'avancement du site.
+
+---
+## J7 : 15.03.2022 Jours Bonus
+
+### Elèves présents :
+- [x] David
+- [x] Jules
+- [x] Marcos
+- [x] James
+
+### Etape du projet :
+Implémentation de l’application
+
+### Objectifs :
+* Finition de la page Acceuil
+* Finition de la page Pantalon (description du pantalon)
+* Finition du haut et bas de page
+* Ajouté les deux nouveaux tableau de bord
+* Ajout des tries en fonction de la base de données
+* Continuer l'application C# (Windows forms)
+
+### Déroulement de la journée : 
+1. Jules avancement sur la documentation (décrire le programme C#) + ajout des deux journaux de bord. 7h30-9h40
+2. David amelioration de laffichage globale du site et avancement des controller. 7h30-9h40
+3. James avancement sur le site création des pages web (Acceuil et Pantalon + motidf haut et bas de page). 7h30-9h40
+4. Marcos 7h30-9h40
+
+
+### Bilan de la journée :
+M.Bonvin nous a permis d'avancer pendant son cours. Nous avons super bien avancer le site commence a rendre quel chose. On a eu deux trois petit probléme mais qui on été 
+réssolu assez facilement avec l'aide du prof.
 
 ---
