@@ -135,7 +135,7 @@ Implémentation de l’application
 4. James: Recherche d'une template et inplémentaion (problème avec les permissions).13h00-16h00
 5. David: Implémentation de la structure de la base de données, fin de la configuration du serveur Infomaniak & conceptualisation des requêtes (récuperation pantalon & commencement ajout pantalon). 13h00 - 16H00 
 
-## Source du template :
+### Source du template :
 https://themewagon.com/themes/free-bootstrap-4-html5-ecommerce-website-template-malefashion/
 
 ### Bilan de la journée :
@@ -171,5 +171,36 @@ Implémentation de l’application
 
 ### Bilan de la journée :
 Malheureusement, cette journée nous a prèsenté un gros problème avec notre serveur Infomaniak. On n'arrive pas à l'acceder depuis l'exterieur, et cela nous a arreté de pouvoir continuer et finir l'implementation de l'application. On pense avoir une idée de comment resoudre ce problème mais on n'a pas le temps aujourd'hui de regler le soucis.
+
+---
+## J6 : 14.03.2022
+
+### Elèves présents :
+- [x] David
+- [x] Jules
+- [x] Marcos (pas présent la 1h)
+- [x] James
+
+
+### Etape du projet :
+Implémentation de l’application
+
+### Objectifs :
+* Finition de la page panier
+* Finition de la page magasin
+* Gros avancement de la documentation
+* Finalisation des requetes
+* Continuer l'application c# (windows forms)
+
+### Déroulement de la journée :
+1. Jules avancement sur la documentation(décrire tout les pages) 12h40-16h
+2. David avancement sur la nouvelle base de donnée en ligne (requetes et ajout des données) 12h40- 16h
+3. James avancement sur le site création des pages web(panier et magasin) avec la modification total de la template 12h40-16h
+4. Marcos finition de l'appication et des requétes. 13h20-16h
+
+
+### Bilan de la journée :
+Aujourd'hui nous avons réglé le probléme de la semaine dernière fois. La base de donnée a été créer dans un nouvelle serveur en ligne.
+Nous avons tous remarqué qu'on était en retard sur l'avancement du site.
 
 ---
