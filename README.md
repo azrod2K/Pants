@@ -178,7 +178,7 @@ Malheureusement, cette journée nous a prèsenté un gros problème avec notre s
 ### Elèves présents :
 - [x] David
 - [x] Jules
-- [x] Marcos (pas présent la 1h)
+- [x] Marcos (pas présent la première heure)
 - [x] James
 
 
@@ -189,18 +189,18 @@ Implémentation de l’application
 * Finition de la page panier
 * Finition de la page magasin
 * Gros avancement de la documentation
-* Finalisation des requetes
-* Continuer l'application c# (windows forms)
+* Finalisation des requêtes
+* Continuer l'application c# (Windows forms)
 
 ### Déroulement de la journée :
-1. Jules avancement sur la documentation(décrire tout les pages) 12h40-16h
-2. David avancement sur la nouvelle base de donnée en ligne (requetes et ajout des données) 12h40- 16h
-3. James avancement sur le site création des pages web(panier et magasin) avec la modification total de la template 12h40-16h
-4. Marcos finition de l'appication et des requétes. 13h20-16h
+1. Jules avancement sur la documentation(décrire tous les pages web) 12h40-16h
+2. David avancement sur la nouvelle base de données en ligne (requêtes et ajout des données) 12h40- 16h
+3. James avancement sur le site création des pages web (panier et magasin) avec la modification totale de la template 12h40-16h
+4. Marcos finition de l'application c# avancement sur la form. 13h20-16h
 
 
 ### Bilan de la journée :
-Aujourd'hui nous avons réglé le probléme de la semaine dernière fois. La base de donnée a été créer dans un nouvelle serveur en ligne.
+Aujourd'hui nous avons réglé le problème de la semaine dernière fois. La base de données a été créer dans un nouveau serveur en ligne.
 Nous avons tous remarqué qu'on était en retard sur l'avancement du site.
 
 ---
