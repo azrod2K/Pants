@@ -235,3 +235,31 @@ M.Bonvin nous a permis d'avancer pendant son cours. Nous avons super bien avance
 réssolu assez facilement avec l'aide du prof.
 
 ---
+## J8 : 21.03.2022
+
+### Elèves présents :
+- [x] David
+- [x] Jules
+- [x] Marcos
+- [x] James
+
+### Etape du projet :
+Test des fonctionnalités
+
+### Objectifs :
+* Finition de la page Acceuil
+* Finition de la page Pantalon (description du pantalon)
+* Finition du haut et bas de page
+* Ajouté les deux nouveaux tableau de bord
+* Ajout des tries en fonction de la base de données
+* Continuer l'application C# (Windows forms)
+
+### Déroulement de la journée : 
+1. Jules avancement sur la documentation (décrire le programme C#) + ajout des deux journaux de bord. 7h30-9h40
+2. David amelioration de laffichage globale du site et avancement des controller. 7h30-9h40
+3. James avancement sur le site création des pages web (Acceuil et Pantalon + motidf haut et bas de page). 7h30-9h40
+4. Marcos 7h30-9h40
+
+
+### Bilan de la journée :
+
