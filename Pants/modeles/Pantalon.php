@@ -8,11 +8,11 @@ class Pantalon
     private $nomPantalon;
     private $imagePantalon;
     private $descriptionPantalon;
+    private $quantite;
+    private $sexe;
     private $prixPantalon;
     private $idTypePant;
-    private $idSexePant;
     private $idCouleurPant;
-    private $idQuantitePant;
     private $idTaillePant;
 
     /**
@@ -200,8 +200,45 @@ class Pantalon
 
         return $this;
     }
-    
+    /**
+     * Get the value of quantite
+     */ 
+    public function getQuantite()
+    {
+        return $this->quantite;
+    }
 
+    /**
+     * Set the value of quantite
+     *
+     * @return  self
+     */ 
+    public function setQuantite($quantite)
+    {
+        $this->quantite = $quantite;
+
+        return $this;
+    }
+    /**
+     * Get the value of sexe
+     */ 
+    public function getSexe()
+    {
+        return $this->sexe;
+    }
+
+    /**
+     * Set the value of sexe
+     *
+     * @return  self
+     */ 
+    public function setSexe($sexe)
+    {
+        $this->sexe = $sexe;
+
+        return $this;
+    }
+    
     public static function GetAllPant()
     {
       $sql = MonPdo::getInstance()->prepare('SELECT * FROM Pantalon');
@@ -215,14 +252,19 @@ class Pantalon
         $nom = $pantalon->getNomPantalon();
         $img = $pantalon->getImagePantalon();
         $desc = $pantalon->getDescriptionPantalon();
+        $quan = $pantalon->getQuantite();
+        $sex = $pantalon->getSexe();
         $prix = $pantalon->getPrixPantalon();
-        $req = MonPdo::getInstance()->prepare('INSERT INTO Pantalon(nomPatalon,imagePantalon,descritpionPatanlon,prixPatanlon) VALUES (:NomPatalon,:ImagePatalon,:DescriptionPatalon,:PrixPatalon)');
+        $req = MonPdo::getInstance()->prepare('INSERT INTO Pantalon(nomPatalon,imagePantalon,descritpionPatanlon,quantite,sexe,prixPatanlon) VALUES (:NomPatalon,:ImagePatalon,:DescriptionPatalon,:Quantite,:Sexe,:PrixPatalon)');
         $req->setFetchMode(PDO::FETCH_CLASS | PDO::FETCH_PROPS_LATE,'Pantalon');
         $req->bindParam(':NomPatalon',$nom);
         $req->bindParam(':ImagePatalon',$img);
         $req->bindParam(':DescriptionPatalon', $desc);
+        $req->bindParam(':Quantite',$quan);
+        $req->bindParam(':Sexe',$sex);
         $req->bindParam(':PrixPatalon',$prix);
         $req->execute();
+
         return MonPdo::getInstance()->lastInsertId();   
     }
 }

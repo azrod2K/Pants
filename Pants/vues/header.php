@@ -61,7 +61,7 @@
                     <nav class="header__menu mobile-menu">
                         <ul>
                             <li><a href="index.php?uc=home">Accueil</a></li>
-                            <li class="active"><a href="index.php?uc=shop">Magasin</a></li>
+                            <li><a href="index.php?uc=shop&action=show">Magasin</a></li>
                             <li><a href="#">Pages</a>
                                 <ul class="dropdown">
                                     <li><a href="index.php?uc=shopping-cart">Panier</a></li>

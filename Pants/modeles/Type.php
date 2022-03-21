@@ -43,13 +43,14 @@ class Type{
         return $this;
     }
     public static function findAll(): array{
-        $sql = MonPdo::getInstance()->prepare('SELECT TypePantalon FROM Type');
-        $sql->setFetchMode(PDO::FETCH_CLASS|PDO::FETCH_PROPS_LATE, 'Type');
+        $sql = MonPdo::getInstance()->prepare('SELECT typePantalon FROM Type');
+        $sql->setFetchMode(PDO::FETCH_CLASS | PDO::FETCH_PROPS_LATE, 'Type');
         $sql->execute();
         $retourSQL=$sql->fetchAll();
 
         return $retourSQL;
     }
+    
     public static function ShowAllType(){
         foreach (Type::findAll() as $Type) {
             echo '<option value=' . $Type->getIdType() . '>';

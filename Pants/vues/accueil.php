@@ -505,6 +505,10 @@
     </section>
     <!-- Latest Blog Section End -->
 
+    <!-- Footer Section Begin -->
+
+    <!-- Footer Section End -->
+
     <!-- Search Begin -->
     <div class="search-model">
         <div class="h-100 d-flex align-items-center justify-content-center">

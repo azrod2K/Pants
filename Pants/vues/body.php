@@ -5,11 +5,10 @@
 
 <body>
   <h1>This is a heading</h1>
-  <fomr action="#" method="POST">
+  <form action="#" method="POST">
     <input type="text">
     <input type="submit">
-
-  </fomr>
+  </form>
 </body>
 
 </html>
